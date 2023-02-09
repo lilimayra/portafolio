@@ -1,4 +1,6 @@
-# Titulo
-##Subtitulo
+# Mi archivo modificado con GitHub Desktop
 
-Hola que tal ls**estas**.
+## La GUI para gestionar Git
+
+-Clonar
+-Crear una versión
